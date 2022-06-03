@@ -32,6 +32,7 @@ function App() {
         <NavBar firebaseUser={firebaseUser}></NavBar>
         <Routes>
           <Route path='/' exact element={<Inicio></Inicio>}></Route>
+          <Route path='/mesa-servicio' exact element={<Inicio></Inicio>}></Route>
           <Route path='/inicio' exact element={<Inicio></Inicio>}></Route>
           <Route path="/servicio" exact element={<Servicio></Servicio>}></Route>
         </Routes>
