@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mesa-servicio/static/css/main.50134b7f.css",
-    "main.js": "/mesa-servicio/static/js/main.e1c90692.js",
+    "main.js": "/mesa-servicio/static/js/main.c852ea70.js",
     "index.html": "/mesa-servicio/index.html",
     "main.50134b7f.css.map": "/mesa-servicio/static/css/main.50134b7f.css.map",
-    "main.e1c90692.js.map": "/mesa-servicio/static/js/main.e1c90692.js.map"
+    "main.c852ea70.js.map": "/mesa-servicio/static/js/main.c852ea70.js.map"
   },
   "entrypoints": [
     "static/css/main.50134b7f.css",
-    "static/js/main.e1c90692.js"
+    "static/js/main.c852ea70.js"
   ]
 }
